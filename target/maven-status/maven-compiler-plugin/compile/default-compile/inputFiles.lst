@@ -1,0 +1,15 @@
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/service/RoleService.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/controller/UserController.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/model/SignUp.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/model/Role.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/controller/RoleController.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/model/ModelEntity.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/model/User.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/model/UserRole.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/dao/UserDao.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/service/UserService.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/helper/ControllerHelper.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/service/RoleServiceImpl.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/UserApplication.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/dao/RoleDao.java
+/home/klebin/Work/git/oterredesperance/oterredesperance-backend/user/src/main/java/com/operantic/ote/user/service/UserServiceImpl.java
